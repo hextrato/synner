@@ -1,2 +1,2 @@
-# synner
-SYNNER: Synthetic Data Generator Framework
+# SYNNER
+Synthetic Data Generator Framework
